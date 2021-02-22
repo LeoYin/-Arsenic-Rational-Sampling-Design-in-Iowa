@@ -17,9 +17,10 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  
  ## Brief Introduction to the Project
  ### Data Description
- The raw data amount to 14,570 previously collected observations of Arsenic tests in total, and the Figure below shows the spatial distribution of the observations
+ The raw data amount to 14,570 previously collected observations of Arsenic tests in total, and the Figure below shows the spatial distribution of the observations. The red points indicate the locations of the wells which are not contaiminated by Arsenic, and the blue points indicate the wells which are contaminated.
  ![image](Figures/overview1.png)
  
+ The Figure below shows the locations of more than 400,000 wells in Iowa, from which we will sample to assess the water quality in the future.
  ![image](Figures/candidate.png)
  
  ### Project Aim
@@ -37,8 +38,10 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  Proposed a thinning algorithm for efficiently sampling;
  
  ### Results
+ In the Figure below, we divided Iowa into 3 clusters by the proposed methodologies. The Arsenic risks are 0.0287, 0.2088 and 0.3373 in cluster 1, 2, 3 respectively.
  ![image](Figures/ES6.png)
  
+ The Figure below shows the sampling locations for water assessment in Iowa;
  ![image](Figures/NEW1.png)
  
  
