@@ -17,7 +17,9 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  
  ## Brief Introduction to the Project
  ### Data Description
+ ![image](Figures/overview1.png)
  
+ ![image](Figures/candidate.png)
  
  ### Project Aim
  To cluster Iowa state into several sub-regions and there are different Arsenic risks in different sub-regions;
@@ -34,5 +36,8 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  Proposed a thinning algorithm for efficiently sampling;
  
  ### Results
+ ![image](Figures/ES6.png)
+ 
+ ![image](Figures/NEW1.png)
  
  
