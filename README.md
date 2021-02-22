@@ -14,3 +14,24 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  The method is different from traditional sampling design methods that often reply on a spatially constant or smoothly varying contamination distribution. 
  In contrast, we propose a statistical regularization method to automatically detect spatial clusters of the underlying contamination risk from the currently available private well arsenic testing data in the USA, Iowa. This allows us to develop a sampling design method that is adaptive to the changes in the contamination risk across the identified regions. 
  We provide the spatially adaptive sample size calculation and sampling locations determination for different acceptance precision and confidence levels for each cluster, to effectively mitigate the arsenic risk from the resource management perspectives. The model presents a framework that can be widely used for other environmental contaminant monitoring and sampling for public and environmental health. 
+ 
+ ## Brief Introduction to the Project
+ ### Data Description
+ 
+ ### Project Aim
+ To cluster Iowa state into several sub-regions and there are different Arsenic risks in different sub-regions;
+ 
+ To estimate the Arsenic risk in each sub-regions of Iowa;
+ 
+ To develope a sampling economic strategy to assess the Arsenic risk in Iowa; 
+ 
+ ### Methodology
+ Proposed a logistic regression model with spatially varying parameters, to model the Arsenic contamination distribution in Iowa;
+ 
+ Proposed a optimization problem with graphic fused Lasso penaly to fit the proposed model;
+ 
+ Proposed a thinning algorithm for efficiently sampling;
+ 
+ ### Results
+ 
+ 
