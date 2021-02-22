@@ -17,6 +17,7 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  
  ## Brief Introduction to the Project
  ### Data Description
+ The raw data amount to 14,570 previously collected observations of Arsenic tests in total, and the Figure below shows the spatial distribution of the observations
  ![image](Figures/overview1.png)
  
  ![image](Figures/candidate.png)
