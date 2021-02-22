@@ -1,9 +1,12 @@
 # Arsenic-Rational-Sampling-Design-in-Iowa
 Research Project;  Part of the Iowa Grants-to-Counties (GTC) program.
 
-Introduction to accepted paper "Risk Based Arsenic Rational Sampling Design for Public andEnvironmental Health Management"
+Introduction to accepted paper "Risk Based Arsenic Rational Sampling Design for Public andEnvironmental Health Management",
+
 which has been accepted by *Chemometrics and Intelligent Laboratory Systems*
-Auther: Lihao Yin(the first auther), Huiyan Sanga, Douglas J. Schnoebelenc, Brian Welsc, Don Simmonsd,Alyssa Mattsond, Michael Schuellerd, Michael Pentelladand Susie Y. Dai
+
+Auther: Lihao Yin(the first auther), Huiyan Sanga, Douglas J. Schnoebelenc, Brian Welsc, Don Simmonsd,Alyssa Mattsond, Michael Schuellerd, Michael Pentelladand Susie Y. Dai;
+
 key words: spatially clustered function model; Graphic fused lasso; ADMM algorithm;
 
 ## Abstract
