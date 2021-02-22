@@ -3,7 +3,7 @@ Research Project;  Part of the Iowa Grants-to-Counties (GTC) program.
 
 Project Status: Completed;
 
-Introduction to the paper "Risk Based Arsenic Rational Sampling Design for Public andEnvironmental Health Management", ![link](Paper/Arsenic.pdf)
+Introduction to the paper "Risk Based Arsenic Rational Sampling Design for Public andEnvironmental Health Management", [link](Paper/Arsenic.pdf)
 
 which has been accepted by *Chemometrics and Intelligent Laboratory Systems*
 
