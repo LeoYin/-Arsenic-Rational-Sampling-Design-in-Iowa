@@ -25,12 +25,12 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  The Figure below shows the locations of more than 400,000 wells in Iowa, from which we will sample to assess the water quality in the future.
  ![image](Figures/candidate.png)
  
- ### Project Aim
- To cluster Iowa state into several sub-regions and there are different Arsenic risks in different sub-regions;
+ ### Project Aims
+ To cluster Iowa state into several sub-regions and the risk of Arsenic contamination is the same within each subregion and different between any two subregions;
  
- To estimate the Arsenic risk in each sub-regions of Iowa;
+ To estimate the Arsenic risk in each sub-regions after clustering;
  
- To develope a sampling economic strategy to assess the Arsenic risk in Iowa; 
+ To develope an economic sampling strategy to monitor the Arsenic contamination risk in Iowa; 
  
  ### Methodology
  Proposed a logistic regression model with spatially varying parameters, to model the spatially inhomogeneous Arsenic contamination risk in Iowa;
