@@ -7,7 +7,7 @@ Introduction to the paper "Risk Based Arsenic Rational Sampling Design for Publi
 
 which has been accepted by *Chemometrics and Intelligent Laboratory Systems*
 
-Auther: Lihao Yin(the first auther), Huiyan Sanga, Douglas J. Schnoebelenc, Brian Welsc, Don Simmonsd,Alyssa Mattsond, Michael Schuellerd, Michael Pentelladand Susie Y. Dai;
+Auther: Lihao Yin(the first auther), Huiyan Sang, Douglas J. Schnoebelenc, Brian Wels, Don Simmons,Alyssa Mattson, Michael Schueller, Michael Pentelladan, Susie Y. Dai;
 
 key words: spatially clustered function model; Graphic fused lasso; ADMM algorithm;
 
