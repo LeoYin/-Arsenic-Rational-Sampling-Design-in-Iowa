@@ -3,7 +3,7 @@ Research Project;  Part of the Iowa Grants-to-Counties (GTC) program.
 
 Project Status: Completed;
 
-Introduction to the paper "Risk Based Arsenic Rational Sampling Design for Public andEnvironmental Health Management", [link of the paper](Paper/Arsenic.pdf)
+Introduction to the paper "Risk Based Arsenic Rational Sampling Design for Public and Environmental Health Management", [link of the paper](https://arxiv.org/abs/2102.11118)
 
 which has been accepted by *Chemometrics and Intelligent Laboratory Systems*
 
@@ -33,9 +33,9 @@ Groundwater contaminated with arsenic has been recognized as a global threat, wh
  To develope a sampling economic strategy to assess the Arsenic risk in Iowa; 
  
  ### Methodology
- Proposed a logistic regression model with spatially varying parameters, to model the Arsenic contamination distribution in Iowa;
+ Proposed a logistic regression model with spatially varying parameters, to model the spatially inhomogeneous Arsenic contamination risk in Iowa;
  
- Proposed a optimization problem with graphic fused Lasso penaly to fit the proposed model;
+ Implemented the regularized tech with graphic fused Lasso to fit the proposed model;
  
  Proposed a thinning algorithm for efficiently sampling;
  
